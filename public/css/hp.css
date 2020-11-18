@@ -1,0 +1,102 @@
+@media only screen and (max-width: 640px){
+	
+
+	/*navbar*/
+
+
+	nav li{
+
+
+
+	}
+
+
+
+	/*jumbutron*/
+
+	.ss img{
+		height : 50px; 
+	}
+
+
+	/*pilihan*/
+
+	#pilihan{
+	
+	margin-left: 50px;
+	margin-top: 50px;
+	}
+
+	.tombol{
+		margin-top: 20px;
+	}
+
+	.box-portfolio{
+		margin-bottom: 20px;
+		height: 20px;
+		width: 30px;
+	}
+	#about img {
+		margin-bottom: 20px;
+	}
+
+
+	#about, #portfolio, #team, #contact {
+		padding: 30px 0;
+	}
+
+
+/* kliping*/
+
+
+.oo  img{
+	width: 320px; 
+	height: 480px;
+}
+
+
+
+
+#kliping p{
+	width: 270px; 
+	height: 10;
+}
+
+
+#kliping h2{
+	width: 270px; 
+	height: auto;
+}
+
+		/*galery*/
+
+
+	#g1 img{
+		height: 180px;
+	
+	}
+
+
+
+				/* contact*/
+
+	#contact{
+		text-align: center;
+	}
+
+	#contact iframe{
+		width : 260px;
+	}
+
+}
+
+
+footer p{
+	text-align: center;
+	margin-bottom: 10px;
+
+}
+
+
+
+@media (min-width: @screen-sm-min) { }

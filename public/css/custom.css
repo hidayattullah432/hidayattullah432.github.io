@@ -1,0 +1,206 @@
+* {
+	font-weight: 200;
+	letter-spacing: 1px;
+}
+body {
+	padding-top: 80px;
+	background: #353535;
+	color: #fff;
+
+}
+h3 {
+	margin: 0;
+}
+h1{
+	font-family: "Script MT Bold"
+}
+
+p {
+	font-family: "Times New Roman"
+}
+
+.color-white {
+	color: #e3e3e3;
+}
+.img-center {
+	margin: 0 auto;
+}
+
+
+
+
+.navbar{
+	min-height: 80px;
+	border-radius: 0;
+	margin-bottom: 0;
+	border-bottom: solid 6px green;
+	box-shadow: 0 2px 10px 0 greenyellow;
+}
+.navbar-brand{
+	padding: 0 15px;
+	height: 80px;
+	line-height: 80px;
+	
+}
+
+.navbar-brand img{
+	margin-top: 10px;
+	max-width: 40px;
+}
+.navbar-toggle{
+	margin-top: 23px;
+	padding: 9px 10px !important;
+}
+
+.navbar-brand {
+	font-family: "Showcard Gothic"!important;
+}
+
+
+.navbar-nav > li > a {
+	padding-top: 26.5px;
+	padding-bottom: 26.5px;
+	line-height: 27px;
+	font-weight: 400;
+	letter-spacing: 2px;
+}
+
+
+
+.item img{
+	width: 1420px ;
+	height: 500px !important; 
+}
+
+
+/*kliping*/
+
+
+#oo {
+	width: 1150px; 
+	height: 1500px;
+}
+
+
+
+
+
+/*Pilihan*/
+
+
+#pilihan{
+	margin-left: 230px;
+	margin-top: 50px;
+}
+
+
+.tombol button{
+	height: 150px; 
+	width: 200px;
+}
+
+
+
+
+h1.title {
+	font-size: 2.5em;
+	font-weight: 300;
+	margin: 0;
+	margin-bottom: 10px;
+	letter-spacing: 5px;
+	}
+
+
+
+#about img, #portfolio img{
+	width: 100%;
+}
+#about, #portfolio, #team, #contact {
+	padding: 50px 0;
+}
+
+
+
+#team img {
+	width: 180px;
+	border: solid 5px #36374d;
+}
+.team-name{
+	padding: 10px;
+	color: #e3e3e3;
+}
+#portfolio {
+	background: #353535;
+	
+}
+
+
+
+	.portfolio img {
+
+	width: 200px;
+	height: 160px;
+	}
+
+
+	#g1 img{
+		height: 300px;
+	
+	}
+
+	#portfolio .dua img{
+		height: 100px;
+		width: 178px;
+	}
+
+.portfolio-title{
+	padding: 15px;
+	background: #CCCBD5;
+	height: 50px;
+}
+.portfolio-title h3{
+	font-size: 1em;
+	color: #000000;
+}
+.portfolio h1{
+	font-size: 2.5em;
+	color: #fff;
+}
+
+
+#text1{
+	text-indent: 30px;
+	text-align: justify-all;
+} 
+
+.menu visited{
+	background: #4e28f6 ;
+	color: #ffffff;
+}
+
+
+#contact{
+ 
+  color: white;
+}
+
+footer{
+	padding-top: 10px;
+	margin-top: 80px;
+	/*padding: 15px 0;*/
+	background: #102128;
+	color: #e3e3e3;
+	font-weight: 500;
+
+}
+
+footer .foter-text{
+	margin-top:30px;
+}
+
+
+
+
+
+
+
